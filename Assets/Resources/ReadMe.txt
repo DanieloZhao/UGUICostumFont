@@ -1,0 +1,2 @@
+方式1：用bmfont,用ngui读取bmfontuv文件的方式写入字体文件的坐标
+方式2：用sprite 切割的方式 用自定义的costumFont脚本自动生成字体
